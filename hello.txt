@@ -1,9 +1,5 @@
 hello world
 hello git
-
-
 hello spark
 hello scala
-
-
 hello hadoop
