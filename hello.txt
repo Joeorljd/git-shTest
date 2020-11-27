@@ -2,4 +2,4 @@ hello world
 hello git
 hello spark
 hello scala
-hello hadoop
+hello hadoop! master test
